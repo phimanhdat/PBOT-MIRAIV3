@@ -59,7 +59,7 @@
   }
   logger.loader(` ID BOT: ${api.getCurrentUserID()}`)
   logger.loader(` PREFIX: ${global.config.PREFIX}`)
-  logger.loader(` NAME BOT: ${(!global.config.BOTNAME) ? "This bot was made by Gau" : global.config.BOTNAME}`)
+  logger.loader(` NAME BOT: ${(!global.config.BOTNAME) ? "This bot was made by Mdat" : global.config.BOTNAME}`)
   logger.loader("┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛")
 
   
