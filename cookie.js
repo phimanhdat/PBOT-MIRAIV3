@@ -3,8 +3,8 @@ const puppeteer = require('puppeteer');
 
 const FACEBOOK_URL = 'https://www.facebook.com/';
 const COOKIE_FILE = 'cookie.txt';
-const FB_EMAIL = 'your_email'; // Thay bằng email đăng nhập
-const FB_PASSWORD = 'your_password'; // Thay bằng mật khẩu
+const FB_EMAIL = 'tkbot200k@gmail.com'; // Thay bằng email đăng nhập
+const FB_PASSWORD = 'Mdat@2008'; // Thay bằng mật khẩu
 
 async function getFacebookCookie() {
     const browser = await puppeteer.launch({
