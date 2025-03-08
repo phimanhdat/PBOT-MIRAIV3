@@ -74,10 +74,10 @@ function onBot({ models }) {
 ╔══════════════════════════════════════╗
 ║ 🚀 Bot đã khởi động thành công! 🎉          
 ╠══════════════════════════════════════╣
-║ 👑  Developer: Nguyễn Trương Thiện Phát
-║ 🆔  Facebook : https://fb.me/100047128875560
+║ 👑  Developer: PHÍ MẠNH 
+║ 🆔  Facebook : https://fb.me/100053249452511
 ║ 📞  Zalo     : 0786888655
-║ 🌐  GitHub   : https://github.com/Pcoder
+║ 
 ╚══════════════════════════════════════╝
 
 ╔══════════════════════════════════════╗
